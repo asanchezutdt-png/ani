@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <?xml-model
+  href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng"
+  schematypens="http://relaxng.org/ns/structure/1.0"
+  type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+
+ <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="llc_exordio">Fragmento de El lazarillo de ciegos caminantes - Exordio</title>
+                <author>Alonso Carrió de la Vandera</author>
+                <editor resp="digital">Ana Chiara Sanchez Artaza</editor>
+             </titleStmt>
+
+
+            <publicationStmt>
+                <publisher>Nombre de la asignatura</publisher>
+                <availability>
+                    <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+                </availability>
+            </publicationStmt>
+         
+
+            <sourceDesc>
+            <bibl>
+                <title> El lazarillo de ciegos caminantes desde Buenos Aires, hasta Lima con sus itinerarios según la más puntual observación, con algunas noticias útiles a los Nuevos Comerciantes que tratan en Mulas ; y otras históricas / sacado de las memorias que hizo Don Alonso Carrió de la Vandera en este dilatado viaje....; por Don Calixto Bustamante Carlos Inca, alias Concolorcorvo natural de Cuzco.</title>
+                <author>Alonso Carrió de la Vandera</author>
+                <publisher>Imprenta de la Rovada</publisher>
+                <date>1773</date>
+                <pubPlace>Lima, Perú</pubPlace>
+                <objectIdentifier>  
+                    <institution>Biblioteca Nacional (España)</institution>
+                    <idno>sig. R/22795</idno>
+             
+                </objectIdentifier>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+
+
+
+
+        <text>
+            <body>
+<pb n="k6"/>
+
+
+<div><p> esta delicada tela a modo de una escofieta o escusa peinado de una madrileña. En su concavidad vimos multitud de estos animalitos rodeados a un esqueleto que, según su tamaño, sería como de una paloma común o casera. También parece que trabajan por tandas, porque en un propio tronco, de donde salían a trabajar muchos de estos operarios, quedaban muchos dormidos. De éstos cogí uno con la punta de las tijeras, que se resistió moviendo aceleradamente sus patitas y boca, y cortándole por el medio halle que estaba repleto de una materia bastante sólida, blanca y suave, como la manteca de puerco.</p>
+
+<p>Me pareció que los animalitos que trabajaban en hilo dilatado, procuraban engrosarle, porque hallé algunos más delgados que los de seda en pelo hasta finalizar en una hebra como la de torcida de Calabria. De estos hilos hace la gente del campo unas toquillas a cordones para los sombreros, que sueltos se encogen y se estiran como de uno a tres. Su color natural es como el del capullo de la seda del gusano. En un cerco de potrero he visto muchas ramas cortadas de los aromos guarnecidas todas de telas, ya sin animalito alguno, que acaso desampara<pb n="k7"/>ron por la falta de la flor o hallarse sin jugo las hojas. No he visto en otro árbol nido de estos animalitos, por lo que me persuado que sólo se mantienen de la flor y jugo de los aromos o de otras flores que buscan en el suelo, de que no he visto hagan provisión, ni tampoco he reconocido esqueletos sino en la figura de las arañas que he dicho haber visto pendientes de los hilos.</p>
+
+<p>Una legua antes de la ciudad de San Miguel se encuentra el río nombrado Sali. Sus aguas son más saladas que las del Tercero. Son cristalinas y a sus orillas se hacen unos pozos y por sus poros se introduce agua potable. También hay otros pocitos naturales en la ribera de muy buena agua, pero tapándose en tiempo de avenidas,   —87→   son inútiles. Este río se forma de 12 arroyos que tienen su nacimiento en los manantiales de lo interior de la jurisdicción, y de todos, el gran río de Santiago del Estero.</p>
+</div>
+<div><head>San Miguel del Tucumán</head>
+<p>Ciudad capital de esta jurisdicción y partenza hoy de correos, ocupa el</p><pb n="k8"/></div>
+
+
+</body>
+</text>
+</TEI>
